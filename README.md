@@ -33,5 +33,18 @@ The problems are primarily sourced from leading platforms for coding and databas
 
 - [LeetCode (Database Problems)](https://leetcode.com/problemset/database/)
 - [HackerRank (SQL Problems)](https://www.hackerrank.com/domains/sql/)
+- [LinkedIn (Real-Time SQL Problems)](https://www.linkedin.com/in/nayabrasool-shaik/)
 
 This consistent practice is a commitment to improving my problem-solving abilities and preparing for data-centric roles.
+
+---
+
+## 🔗 Connect with Me
+👋 Hi, I'm **NAYAB RASOOL SHAIK**
+
+[![🔗LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nayabrasool-shaik)  
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-blue?logo=gmail)](mailto:nayabshaik046@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=google-chrome)](http://nayabrasool.my.canva.site/)
+
+> _“Learn deeply, build practically, explain simply, and share widely.” – Shaik Nayab Rasool_
+
