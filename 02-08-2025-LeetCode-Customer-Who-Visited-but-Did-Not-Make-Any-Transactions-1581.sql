@@ -61,15 +61,16 @@ GO
 -- =======================
 /* Write your T-SQL query statement below */
 SELECT
-    v.customer_id,
-    COUNT(v.visit_id) AS count_no_trans
-FROM
-    Visits v
+   V.customer_id,
+   COUNT(V.visit_id) as count_no_trans
+FROM 
+    Visits V
 LEFT JOIN
-    Transactions t ON v.visit_id = t.visit_id
+    Transactions T ON V.visit_id = T.visit_id
 WHERE
-    t.transaction_id IS NULL
+    T.transaction_id IS NULL
 GROUP BY
-    v.customer_id
+    V.customer_id
 ORDER BY
-    count_no_trans DESC, v.customer_id ASC;
+    count_no_trans DESC;
+
