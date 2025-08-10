@@ -1,3 +1,4 @@
+% T-SQL Code
 SELECT
     SUM(POPULATION)
 FROM
