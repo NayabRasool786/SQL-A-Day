@@ -23,7 +23,7 @@ Each solution is stored in a separate `.sql` file. The naming convention is desi
 **`YYYY-MM-DD-problem-name.sql`**
 
 For example, the solution for a problem solved on the first day is named:
-`2025-08-01-second-highest-salary.sql`
+`2025-08-01-second-highest-salary.sql `
 
 ---
 
