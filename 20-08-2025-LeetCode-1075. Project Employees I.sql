@@ -64,5 +64,6 @@ FROM
 INNER JOIN
     Employee e ON p.employee_id = e.employee_id
 GROUP BY
+    p.project_id
+ORDER BY
     p.project_id;
-GO
