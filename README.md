@@ -9,7 +9,7 @@ My personal journey to mastering SQL, one query at a time. This repository docum
 This repository tracks a personal goal of solving one new SQL problem for 100 consecutive days.
 
 | Challenge | Status |
-| :--- | :--- |
+| :--- | :--- | 
 | **Start Date** | August 1, 2025 |
 | **Goal** | 100 Days of SQL |
 | **Target End Date** | November 8, 2025 |
