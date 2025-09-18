@@ -1,5 +1,5 @@
 # SQL-A-Day 🚀
- 
+
 My personal journey to mastering SQL, one query at a time. This repository documents my daily practice of solving a new SQL problem every day to enhance my skills in data manipulation, analysis, and query optimization.
 
 --- 
