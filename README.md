@@ -11,8 +11,8 @@ This repository tracks a personal goal of solving one new SQL problem for 100 co
 | Challenge | Status |
 | :--- | :--- | 
 | **Start Date** | August 1, 2025 |
-| **Goal** | 100 Days of SQL |
-| **Target End Date** | November 8, 2025 |
+| **Goal** | 100 Days of SQL + More|
+| **Target End Date** | No Ending |
 
 ---
 
