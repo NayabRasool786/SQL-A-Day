@@ -4,7 +4,7 @@ My personal journey to mastering SQL, one query at a time. This repository docum
 
 --- 
 
-## The 100-Day Challenge
+## The 100+ Day Challenge
 
 This repository tracks a personal goal of solving one new SQL problem for 100 consecutive days.
 
